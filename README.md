@@ -11,7 +11,7 @@
 
 ## And we considered LSTM model to create a user interface by using flask to connect the model and the web page. 
 
-![User Interface](https://raw.githubusercontent.com/manyahegde/Hate-Speech-Detection/main/Screenshot%20(85).png)
+![User Interface](Screenshot%20(85).png)
 
 ### On clicking predict, the model tells if the speech is Hate Speech or not.
 
