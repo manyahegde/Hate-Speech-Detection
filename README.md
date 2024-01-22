@@ -11,7 +11,7 @@
 
 ## And we considered LSTM model to create a user interface by using flask to connect the model and the web page. 
 
-![User Interface](C:\Users\HP\OneDrive\Documents\GitHub\Hate-Speech-Detection\WhatsApp Image 2024-01-22 at 18.06.41_eb68c2cf.jpg)
+![User Interface](C:\Users\HP\Pictures\Screenshots\Screenshot (85).png)
 ### On clicking predict, the model tells if the speech is Hate Speech or not.
 
 ## The model may not give correct results, due to the lack of data. It learns only from the data which is in the dataset. For more accurate results, we will have to consider more and more data. However, computation time will be more for more data. So, it is suggested to use GPU. 
